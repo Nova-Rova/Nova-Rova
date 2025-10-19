@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Nova-Rova/Nova-Rova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hi there, I’m Felix Amartey 👋
 
-Here are some ideas to get you started:
+Developer | Computer Science Student | Building solutions that make impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🎓 Computer Science student at the University of Ghana
+
+💡  CO-founder of Nexiton, focused on building digital solutions for education and community programs
+
+❤️ Passionate about software that simplifies life, especially in education and healthcare
+
+🌱 Currently learning Fullstack development and improving my database design & documentation skills
+
+⚙️ Working on:
+
+🧩 Learn Sphere – a Learning Management System for basic & secondary schools
+
+❤️ Caring Hands for the Aged – a database system to support elderly care programs
+
+📁 File Organizer App – smart local file management
+
+🧠 I believe in the Pareto principle (80/20 rule) — mastering the essentials first.
+
+🧰 Tech Stack
+
+Languages: Python, Java, SQL, HTML, CSS, JavaScript
+Frameworks/Tools: Django, Flask, Git, VS Code, DaVinci Resolve (creative tools)
+Databases: SQLite,MySQL
+Other Interests: Documentation, UI/UX thinking, automation, and storytelling
+
+🧭 Quote I Live By
+“If one sacrifice can help many, it’s worth it.”
+
