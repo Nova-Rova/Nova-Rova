@@ -31,6 +31,5 @@ Frameworks/Tools: Django, Flask, Git, VS Code, DaVinci Resolve (creative tools)
 Databases: SQLite,MySQL
 Other Interests: Documentation, UI/UX thinking, automation, and storytelling
 
-🧭 Quote I Live By
-“If one sacrifice can help many, it’s worth it.”
+
 
